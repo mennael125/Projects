@@ -1,0 +1,11 @@
+C:\Users\Haidy\Desktop\DR.lobna project\Project\CharityManeger\CharityManeger\bin\Debug\CharityManeger.exe.config
+C:\Users\Haidy\Desktop\DR.lobna project\Project\CharityManeger\CharityManeger\bin\Debug\CharityManeger.exe
+C:\Users\Haidy\Desktop\DR.lobna project\Project\CharityManeger\CharityManeger\bin\Debug\CharityManeger.pdb
+C:\Users\Haidy\Desktop\DR.lobna project\Project\CharityManeger\CharityManeger\bin\Debug\Guna.UI.dll
+C:\Users\Haidy\Desktop\DR.lobna project\Project\CharityManeger\CharityManeger\obj\Debug\CharityManeger.Properties.Resources.resources
+C:\Users\Haidy\Desktop\DR.lobna project\Project\CharityManeger\CharityManeger\obj\Debug\CharityManeger.csproj.GenerateResource.Cache
+C:\Users\Haidy\Desktop\DR.lobna project\Project\CharityManeger\CharityManeger\obj\Debug\CharityManeger.exe
+C:\Users\Haidy\Desktop\DR.lobna project\Project\CharityManeger\CharityManeger\obj\Debug\CharityManeger.pdb
+C:\Users\Haidy\Desktop\DR.lobna project\Project\CharityManeger\CharityManeger\obj\Debug\CharityManeger.Login.resources
+C:\Users\Haidy\Desktop\DR.lobna project\Project\CharityManeger\CharityManeger\obj\Debug\CharityManeger.Main.resources
+C:\Users\Haidy\Desktop\DR.lobna project\Project\CharityManeger\CharityManeger\obj\Debug\CharityManeger.csprojResolveAssemblyReference.cache
